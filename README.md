@@ -66,10 +66,6 @@ Este projeto é uma demonstração de como integrar o Amazon OpenSearch com uma 
 │ ├── tsconfig.json
 │ └── Dockerfile
 ├── data
-│ ├── mysql
-│ │ ├── ca.pem
-│ │ ├── client-cert.pem
-│ │ └── server-cert.pem
 │ └── init.sql
 ├── docker-compose.yml
 ├── .env.example
